@@ -116,7 +116,7 @@ The project compares different classifiers and selects the best-performing model
 ## How to Run  
 1. Clone the repository  
 ```bash
-git clone https://github.com/your-repo/Customer-Complaint-Classification.git
+git clone https://github.com/Neevan10/Kaiburr_Task2/Customer-Complaint-Classification.git
 cd Customer-Complaint-Classification
 ```
 2. Install dependencies  
